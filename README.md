@@ -29,7 +29,7 @@
 ---
 
 ## 📌 **Proyectos Destacados**
-📌 **[Portfolio](https://github.com/Yair-Bataglia/ortfolio)**  
+📌 **[Portfolio](https://github.com/Yair-Bataglia/portfolio)**  
 🔹 Portfolio personal con tematica de *Termianl Linux* 
 
 📌 **[Automatización de Envío Masivo de WhatsApp con Selenium](https://github.com/tuusuario/whatsapp-mass-messaging)**  
