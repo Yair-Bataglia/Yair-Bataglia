@@ -43,11 +43,11 @@
 
 ## 📊 **Estadísticas de GitHub**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yair-Bataglia&show_icons=true&theme=merko&locale=es)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yair-Bataglia&show_icons=true&theme=merko&locale=es" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yair-Bataglia&layout=compact&theme=merko&locale=es" width="48%" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yair-Bataglia&layout=compact&theme=merko&locale=es)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Yair-Bataglia)](https://git.io/streak-stats)
 
 ---
 
