@@ -4,15 +4,11 @@
   💻 Desarrollador Web/Desktop | 📊 Automatización de procesos y analisis de DB en CRM | 🚀 Soporte IT
 </p>
 
----
-
 <p align="center">
-  
- [![Ver Portafolio](https://img.shields.io/badge/💼%20Ver%20Portafolio-ff5722?style=for-the-badge)](https://yair-bataglia.github.io/portfolio/)
+  <a href="https://yair-bataglia.github.io/portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20Ver%20Portafolio-ff4500?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portafolio" width="250px" />
+  </a>
 </p>
-
-
-
 
 ---
 
