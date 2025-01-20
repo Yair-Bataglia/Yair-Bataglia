@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://yair-bataglia.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/💼%20Ver%20Portafolio-ff4500?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Portafolio" width="250px" />
+    <img src="https://img.shields.io/badge/💼%20Ver%20Portafolio-007bff?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portafolio" width="250px" />
   </a>
 </p>
 
