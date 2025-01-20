@@ -44,8 +44,8 @@
 ## 📊 **Estadísticas de GitHub**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yair-Bataglia&show_icons=true&theme=merko&locale=es" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yair-Bataglia&layout=compact&theme=merko&locale=es" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yair-Bataglia&show_icons=true&theme=merko&locale=es" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yair-Bataglia&layout=compact&theme=merko&locale=es"/>
 </div>
 
 
