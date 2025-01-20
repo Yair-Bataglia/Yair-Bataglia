@@ -46,10 +46,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yair-Bataglia&show_icons=true&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yair-Bataglia&layout=compact&theme=date_night)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yair_Bataglia&layout=compact&theme=dark" width="48%" />
-</p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Yair-Bataglia&theme=transparent&hide_border=true&locale=es&short_numbers=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 ---
 
 ## 📬 **Contáctame**
