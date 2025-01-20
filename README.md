@@ -42,10 +42,9 @@
 ---
 
 ## 📊 **Estadísticas de GitHub**
-<p align="center">
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yair-Bataglia&show_icons=true&theme=dark)
   ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Yair-Bataglia&theme=dark)
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yair_Bataglia&layout=compact&theme=dark" width="48%" />
