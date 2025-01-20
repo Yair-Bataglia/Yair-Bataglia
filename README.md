@@ -29,6 +29,9 @@
 ---
 
 ## 📌 **Proyectos Destacados**
+📌 **[Portfolio](https://github.com/Yair-Bataglia/ortfolio)**  
+🔹 Portfolio personal con tematica de *Termianl Linux* 
+
 📌 **[Automatización de Envío Masivo de WhatsApp con Selenium](https://github.com/tuusuario/whatsapp-mass-messaging)**  
 🔹 Herramienta para enviar mensajes masivos usando Microsoft Edge y archivos Excel.  
 🔹 Integración con bases de datos y logs detallados.   
