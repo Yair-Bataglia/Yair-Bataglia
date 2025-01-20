@@ -10,13 +10,9 @@
   </a>
 </p>
 
--
-
 ## 🌎 **Sobre mí**
 🔹 Soy un entusiasta de la tecnología con experiencia en desarrollo de software, integración de APIs y automatización de procesos en empresas.   
 🔹 Actualmente, trabajo en **GGGroup (agencia de cobranzas y call center)** optimizando procesos con tecnología y brindando Soporte IT.  
-
--
 
 ## 🚀 **Tecnologías y Herramientas**
 <p align="center">
@@ -31,9 +27,6 @@
   <img src="https://img.shields.io/badge/Excel%20Automation-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </p>
 
-
--
-
 ## 📌 **Proyectos Destacados**
 📌 **[Portfolio](https://github.com/Yair-Bataglia/portfolio)**  
 🔹 Portfolio personal con tematica de *Termianl Linux* 
@@ -41,8 +34,6 @@
 📌 **[Automatización de Envío Masivo de WhatsApp con Selenium](https://github.com/tuusuario/whatsapp-mass-messaging)**  
 🔹 Herramienta para enviar mensajes masivos usando Microsoft Edge y archivos Excel.  
 🔹 Integración con bases de datos y logs detallados.   
-
--
 
 ## 📊 **Estadísticas de GitHub**
 
@@ -54,12 +45,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yair-Bataglia&layout=compact&theme=merko&locale=es"/>
 </div>
 
--
-
 ## 📬 **Contáctame**
 <p align="center">
   <a href="https://linkedin.com/in/yair-bataglia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="yairbataglia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
--
