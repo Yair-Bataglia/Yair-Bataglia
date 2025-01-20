@@ -45,7 +45,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yair-Bataglia&show_icons=true&theme=merko&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yair-Bataglia&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yair-Bataglia&layout=compact&theme=merko&locale=es)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Yair-Bataglia)](https://git.io/streak-stats)
 
