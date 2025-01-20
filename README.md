@@ -31,15 +31,7 @@
 ## 📌 **Proyectos Destacados**
 📌 **[Automatización de Envío Masivo de WhatsApp con Selenium](https://github.com/tuusuario/whatsapp-mass-messaging)**  
 🔹 Herramienta para enviar mensajes masivos usando Microsoft Edge y archivos Excel.  
-🔹 Integración con bases de datos y logs detallados.  
-
-📌 **[Dashboard Financiero en Python](https://github.com/tuusuario/dashboard-financiero)**  
-🔹 Visualización de datos financieros con `Matplotlib` y `Pandas`.  
-🔹 Análisis de inversiones en **Bitcoin y Criptomonedas**.  
-
-📌 **[Sistema de Gestión de Cobranzas](https://github.com/tuusuario/cobranzas-system)**  
-🔹 Desarrollo de un CRM interno para la gestión de cobranzas en call centers.  
-🔹 Integración con APIs de WhatsApp y SMS.  
+🔹 Integración con bases de datos y logs detallados.   
 
 ---
 
@@ -57,15 +49,8 @@
 
 ## 📬 **Contáctame**
 <p align="center">
-  <a href="https://linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/TU_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yair-bataglia"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="yairbataglia@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
----
-
-### 🚀 **¿Quieres crear un perfil como este?**
-💡 Usa esta plantilla, personalízala y optimiza tu GitHub.  
-Si necesitas ayuda, contáctame en [LinkedIn](https://linkedin.com/in/TU_LINKEDIN). 😃  
 
 ---
