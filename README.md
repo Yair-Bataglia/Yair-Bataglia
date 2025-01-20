@@ -7,11 +7,11 @@
 ---
 
 <p align="center">
-  <a href="[https://yair-bataglia.github.io/portfolio/](https://img.shields.io/badge/💼%20Ver%20Portafolio-ff5722?style=for-the-badge)](https://yair-bataglia.github.io/portfolio/)" target="_blank">
-  </a>
+  
+ [![Ver Portafolio](https://img.shields.io/badge/💼%20Ver%20Portafolio-ff5722?style=for-the-badge)](https://yair-bataglia.github.io/portfolio/)
 </p>
 
-[![Ver Portafolio](https://img.shields.io/badge/💼%20Ver%20Portafolio-ff5722?style=for-the-badge)](https://yair-bataglia.github.io/portfolio/)
+
 
 
 ---
