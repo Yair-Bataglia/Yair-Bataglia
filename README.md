@@ -32,7 +32,7 @@
 🔹 Portfolio personal con tematica de *Termianl Linux* 
 
 📌 **[Verificación de números en WhatsApp con Selenium](https://github.com/tuusuario/whatsapp-mass-messaging)**  
-🔹 Herramienta para enviar mensajes masivos usando Microsoft Edge y archivos Excel.  
+🔹 Herramienta para verificar números que cuenten con cuenta de Whatsapp usando Microsoft Edge y archivos Excel.  
 🔹 Integración con bases de datos y logs detallados.   
 
 ## 📊 **Estadísticas de GitHub**
