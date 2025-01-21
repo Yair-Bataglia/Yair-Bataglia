@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yair-Bataglia&layout=compact&theme=merko&locale=es"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yair-Bataglia&show_icons=true&layout=compact&theme=merko&locale=es"/>
 </div>
 
 ## 📬 **Contáctame**
