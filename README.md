@@ -31,9 +31,12 @@
 📌 **[Portfolio](https://github.com/Yair-Bataglia/portfolio)**  
 🔹 Portfolio personal con tematica de *Termianl Linux* 
 
-📌 **[Verificación de números en WhatsApp con Selenium](https://github.com/tuusuario/whatsapp-mass-messaging)**  
+📌 **[Verificación de números en WhatsApp con Selenium](https://github.com/Yair-Bataglia/verificador-numeros-whatsapp-python)**  
 🔹 Herramienta para verificar números que cuenten con cuenta de Whatsapp usando Microsoft Edge y archivos Excel.  
-🔹 Integración con bases de datos y logs detallados.   
+🔹 Integración con bases de datos y logs detallados.
+
+📌 **[Notas en tiempo real con Sockets.io](https://github.com/Yair-Bataglia/notes-crud-nodejs-sockets)**  
+🔹 Los usuarios pueden crear, leer, actualizar y eliminar notas con una interfaz interactiva, todo actualizado en tiempo real gracias a los sockets.
 
 ## 📊 **Estadísticas de GitHub**
 
