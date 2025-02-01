@@ -4,11 +4,6 @@
   💻 Desarrollador Web/Desktop | 📊 Automatización de procesos y analisis de DB en CRM | 🚀 Soporte IT
 </p>
 
-<p align="center">
-  <a href="https://yair-bataglia.github.io/portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/💼%20Ver%20Portafolio-007bff?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portafolio" width="250px" />
-  </a>
-</p>
 
 ## 🌎 **Sobre mí**
 🔹 Soy un entusiasta de la tecnología con experiencia en desarrollo de software, integración de APIs y automatización de procesos en empresas.   
